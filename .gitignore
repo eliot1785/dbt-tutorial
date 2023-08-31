@@ -1,0 +1,8 @@
+# Ignore our Python virtual environment files
+/.venv
+
+# Ignore these files created by MacOS
+.DS_Store
+
+# Don't commit DBT logs
+/logs
